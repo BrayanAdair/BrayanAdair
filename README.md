@@ -1,9 +1,10 @@
 <h1 align="center">Hola 👋, soy Brayan Adair</h1>
 <h3 align="center">CEO de bzsoftwares.com y un desarrollador Freelancer con diversas certificaciones por google activate, microsoft y mas, ademas cuento con dos tecnicaturas y una ingenieria en proceso de titulacion las cuales son:</h3>
 <br>
-<h2><b>Tecnico en programación,</b><p></h2>
-<h2><b>Tecnico Superior Universitario en TIC´S area de desarrollo de software</b><p></h2>
-<h2><b>Ingeniero en Desarrollo y Gestion de Software</b>(En proceso de titulación).</h2>
+<h4 align="center">
+<b>Tecnico en programación,</b><p>
+<b>Tecnico Superior Universitario en TIC´S area de desarrollo de software</b><p>
+<b>Ingeniero en Desarrollo y Gestion de Software</b>(En proceso de titulación).</h4>
 
 
 - 🌱 Siempre estoy tomando diversos cursos en: **Desarrollo de proyectos, Desarrollo BackEnd y FrontEnd entre mas.**
