@@ -4,7 +4,7 @@
 <h4 align="center">
 <b>⚡ Tecnico en programación.</b><p><p>
 <b>⚡ Tecnico Superior Universitario en TIC´S area de desarrollo de software.</b><p>
-<b>⚡ Ingeniero en Desarrollo y Gestion de Software</b>(En proceso de titulación).<p>
+<b>⚡ Ingeniero en Desarrollo y Gestion de Software</b>.<p>
 </h4>
 
 <br>
