@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Brayan Adair</h1>
-<h3 align="center">CEO de bzsoftwares.com y un desarrollador Freelancer con diversas certificaciones por google activate, microsoft y mas, ademas cuento con dos tecnicaturas y una ingenieria en proceso de titulacion las cuales son:</h3>
+<h3 align="center">CEO de bzsoftwares.com y un desarrollador Freelancer con diversas certificaciones por google activate, microsoft y mas, ademas cuento con dos tecnicaturas y una ingenieria de las cuales son:</h3>
 <p>
 <h4 align="center">
 <b>⚡ Tecnico en programación.</b><p><p>
